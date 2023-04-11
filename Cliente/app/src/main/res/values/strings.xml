@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cliente</string>
+    <string name="btnActivar">Iniciar Conexion</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="btnClose">Finalizar</string>
+    <string name="txtMemsaje">Escribe mensaje a enviar</string>
+    <string name="txtMac">Escribe direccion MAC</string>
+    <string name="listView">Lista de Usuarios</string>
+    <string name="nameDestino">Ingrese Mac de usuario destino</string>
+    <string name="txtRespuesta">conversacion</string>
+</resources>
